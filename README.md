@@ -23,3 +23,16 @@ This is the `lawyers.js` module of the [NyayaNext](https://www.nyayanext.com) le
    cd nyayanext-public
 # lawyers-directory
 core module for NyayaNext lawyer onboarding and search
+
+## 🧪 Testing
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Run the test suite:
+   ```bash
+   npm test
+   ```
+
+The test setup uses Jest with a jsdom environment. If `npm test` fails with `jest: command not found`, make sure dependencies were installed correctly.
