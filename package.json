@@ -1,0 +1,16 @@
+{
+  "name": "lawyers-directory",
+  "version": "1.0.0",
+  "description": "This is the `lawyers.js` module of the [NyayaNext](https://www.nyayanext.com) legal assistance platform. It is responsible for rendering and managing the public-facing directory of verified lawyers. Visitors can search for lawyers, view contact details (after authentication), and optionally leave messages.",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
